@@ -1,0 +1,3922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kabupaten/Kota di pulau Jawa</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Jawa Timur.csv</name>
+      <Placemark>
+        <name>Kabupaten Banyuwangi</name>
+        <description><![CDATA[nid: 821<br>parent_nid: 15<br>serial: 1501<br>type: 2<br>latitude: -8.2186111<br>longitude: 114.3669444<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>821.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1501.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.2186111</value>
+          </Data>
+          <Data name="longitude">
+            <value>114.3669444</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.3669444,-8.2186111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Madiun</name>
+        <description><![CDATA[nid: 823<br>parent_nid: 15<br>serial: 1502<br>type: 2<br>latitude: -7.627753<br>longitude: 111.505483<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>823.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1502.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.627753</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.505483</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.505483,-7.627753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Ponorogo</name>
+        <description><![CDATA[nid: 824<br>parent_nid: 15<br>serial: 1503<br>type: 2<br>latitude: -7.867827<br>longitude: 111.466003<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>824.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1503.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.867827</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.466003</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.466003,-7.867827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Magetan</name>
+        <description><![CDATA[nid: 825<br>parent_nid: 15<br>serial: 1504<br>type: 2<br>latitude: -7.6493413<br>longitude: 111.3381593<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>825.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1504.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.6493413</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.3381593</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.3381593,-7.6493413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Pacitan</name>
+        <description><![CDATA[nid: 826<br>parent_nid: 15<br>serial: 1505<br>type: 2<br>latitude: -8.204614<br>longitude: 111.08769<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>826.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1505.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.204614</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.08769</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.08769,-8.204614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Ngawi</name>
+        <description><![CDATA[nid: 827<br>parent_nid: 15<br>serial: 1506<br>type: 2<br>latitude: -7.38993<br>longitude: 111.46193<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>827.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1506.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.38993</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.46193</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.46193,-7.38993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Bangkalan</name>
+        <description><![CDATA[nid: 828<br>parent_nid: 15<br>serial: 1507<br>type: 2<br>latitude: -7.0306912<br>longitude: 112.7450068<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>828.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1507.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.0306912</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.7450068</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.7450068,-7.0306912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Kediri</name>
+        <description><![CDATA[nid: 829<br>parent_nid: 15<br>serial: 1508<br>type: 2<br>latitude: -7.809356<br>longitude: 112.032356<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>829.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1508.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.809356</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.032356</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.032356,-7.809356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Bondowoso</name>
+        <description><![CDATA[nid: 830<br>parent_nid: 15<br>serial: 1509<br>type: 2<br>latitude: -7.917704<br>longitude: 113.813483<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>830.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1509.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.917704</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.813483</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.813483,-7.917704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Blitar</name>
+        <description><![CDATA[nid: 831<br>parent_nid: 15<br>serial: 1510<br>type: 2<br>latitude: -8.1014419<br>longitude: 112.162762<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>831.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1510.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.1014419</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.162762</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.162762,-8.1014419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Trenggalek</name>
+        <description><![CDATA[nid: 832<br>parent_nid: 15<br>serial: 1511<br>type: 2<br>latitude: -8.05<br>longitude: 111.7166667<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>832.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1511.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.05</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.7166667</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.7166667,-8.05,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Tulungagung</name>
+        <description><![CDATA[nid: 833<br>parent_nid: 15<br>serial: 1512<br>type: 2<br>latitude: -8.0666667<br>longitude: 111.9<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>833.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1512.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.0666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.9</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.9,-8.0666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Nganjuk</name>
+        <description><![CDATA[nid: 834<br>parent_nid: 15<br>serial: 1513<br>type: 2<br>latitude: -7.602932<br>longitude: 111.901808<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>834.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1513.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.602932</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.901808</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.901808,-7.602932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Situbondo</name>
+        <description><![CDATA[nid: 835<br>parent_nid: 15<br>serial: 1514<br>type: 2<br>latitude: -7.702534<br>longitude: 113.955605<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>835.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1514.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.702534</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.955605</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.955605,-7.702534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Malang</name>
+        <description><![CDATA[nid: 836<br>parent_nid: 15<br>serial: 1515<br>type: 2<br>latitude: -8.0495643<br>longitude: 112.6884549<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>836.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1515.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.0495643</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.6884549</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.6884549,-8.0495643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Jember</name>
+        <description><![CDATA[nid: 837<br>parent_nid: 15<br>serial: 1516<br>type: 2<br>latitude: -8.172357<br>longitude: 113.700302<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>837.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1516.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.172357</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.700302</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.700302,-8.172357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Sumenep</name>
+        <description><![CDATA[nid: 838<br>parent_nid: 15<br>serial: 1517<br>type: 2<br>latitude: -6.9253999<br>longitude: 113.9060624<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>838.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1517.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.9253999</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.9060624</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.9060624,-6.9253999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Pasuruan</name>
+        <description><![CDATA[nid: 839<br>parent_nid: 15<br>serial: 1518<br>type: 2<br>latitude: -6.8623098<br>longitude: 108.8001936<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>839.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1518.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8623098</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.8001936</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.8001936,-6.8623098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Pamekasan</name>
+        <description><![CDATA[nid: 840<br>parent_nid: 15<br>serial: 1519<br>type: 2<br>latitude: -7.1666667<br>longitude: 113.4666667<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>840.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1519.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.1666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.4666667</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.4666667,-7.1666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Probolinggo</name>
+        <description><![CDATA[nid: 841<br>parent_nid: 15<br>serial: 1520<br>type: 2<br>latitude: -7.753965<br>longitude: 113.210675<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>841.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1520.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.753965</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.210675</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.210675,-7.753965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Lumajang</name>
+        <description><![CDATA[nid: 842<br>parent_nid: 15<br>serial: 1521<br>type: 2<br>latitude: -8.137022<br>longitude: 113.226601<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>842.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1521.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.137022</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.226601</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.226601,-8.137022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Bojonegoro</name>
+        <description><![CDATA[nid: 843<br>parent_nid: 15<br>serial: 1522<br>type: 2<br>latitude: 0.882681<br>longitude: 124.4669566<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>843.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1522.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.882681</value>
+          </Data>
+          <Data name="longitude">
+            <value>124.4669566</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            124.4669566,0.882681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Tuban</name>
+        <description><![CDATA[nid: 844<br>parent_nid: 15<br>serial: 1523<br>type: 2<br>latitude: -8.7493146<br>longitude: 115.1711298<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>844.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1523.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.7493146</value>
+          </Data>
+          <Data name="longitude">
+            <value>115.1711298</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1711298,-8.7493146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Lamongan</name>
+        <description><![CDATA[nid: 845<br>parent_nid: 15<br>serial: 1524<br>type: 2<br>latitude: -7.406153<br>longitude: 109.3946794<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>845.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1524.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.406153</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.3946794</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.3946794,-7.406153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Sidoarjo</name>
+        <description><![CDATA[nid: 846<br>parent_nid: 15<br>serial: 1525<br>type: 2<br>latitude: -7.4530278<br>longitude: 112.7173389<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>846.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1525.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.4530278</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.7173389</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.7173389,-7.4530278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Sampang</name>
+        <description><![CDATA[nid: 847<br>parent_nid: 15<br>serial: 1526<br>type: 2<br>latitude: -7.5782556<br>longitude: 109.2058436<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>847.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1526.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.5782556</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.2058436</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.2058436,-7.5782556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Mojokerto</name>
+        <description><![CDATA[nid: 848<br>parent_nid: 15<br>serial: 1527<br>type: 2<br>latitude: -7.488075<br>longitude: 112.427027<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>848.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1527.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.488075</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.427027</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.427027,-7.488075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Gresik</name>
+        <description><![CDATA[nid: 849<br>parent_nid: 15<br>serial: 1528<br>type: 2<br>latitude: -7.15665<br>longitude: 112.6555<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>849.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1528.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.15665</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.6555</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.6555,-7.15665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Jombang</name>
+        <description><![CDATA[nid: 850<br>parent_nid: 15<br>serial: 1529<br>type: 2<br>latitude: -7.5468395<br>longitude: 112.2264794<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>850.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1529.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.5468395</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.2264794</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.2264794,-7.5468395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Mojokerto</name>
+        <description><![CDATA[nid: 851<br>parent_nid: 15<br>serial: 1530<br>type: 2<br>latitude: -7.4722222<br>longitude: 112.4336111<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>851.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1530.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.4722222</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.4336111</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.4336111,-7.4722222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Surabaya</name>
+        <description><![CDATA[nid: 852<br>parent_nid: 15<br>serial: 1531<br>type: 2<br>latitude: -7.289166<br>longitude: 112.734398<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>852.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1531.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.289166</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.734398</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.734398,-7.289166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Madiun</name>
+        <description><![CDATA[nid: 853<br>parent_nid: 15<br>serial: 1532<br>type: 2<br>latitude: -7.629714<br>longitude: 111.513702<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>853.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1532.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.629714</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.513702</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.513702,-7.629714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Blitar</name>
+        <description><![CDATA[nid: 854<br>parent_nid: 15<br>serial: 1533<br>type: 2<br>latitude: -8.1<br>longitude: 112.15<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>854.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1533.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.1</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.15</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.15,-8.1,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Malang</name>
+        <description><![CDATA[nid: 855<br>parent_nid: 15<br>serial: 1534<br>type: 2<br>latitude: -7.981894<br>longitude: 112.626503<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>855.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1534.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.981894</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.626503</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.626503,-7.981894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Batu</name>
+        <description><![CDATA[nid: 856<br>parent_nid: 15<br>serial: 1535<br>type: 2<br>latitude: -7.8671<br>longitude: 112.5239<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>856.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1535.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.8671</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.5239</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.5239,-7.8671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Pasuruan</name>
+        <description><![CDATA[nid: 857<br>parent_nid: 15<br>serial: 1536<br>type: 2<br>latitude: -7.644872<br>longitude: 112.903297<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>857.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1536.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.644872</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.903297</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.903297,-7.644872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Kediri</name>
+        <description><![CDATA[nid: 858<br>parent_nid: 15<br>serial: 1537<br>type: 2<br>latitude: -7.816895<br>longitude: 112.011398<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>858.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1537.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.816895</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.011398</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.011398,-7.816895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Probolinggo</name>
+        <description><![CDATA[nid: 859<br>parent_nid: 15<br>serial: 1538<br>type: 2<br>latitude: -7.756928<br>longitude: 113.211502<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>859.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>15.0</value>
+          </Data>
+          <Data name="serial">
+            <value>1538.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.756928</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.211502</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.211502,-7.756928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Jawa Tengah.csv</name>
+      <Placemark>
+        <name>Kabupaten Cilacap</name>
+        <description><![CDATA[nid: 1497<br>parent_nid: 13<br>serial: 3301<br>type: 2<br>latitude: -7.733333<br>longitude: 109<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1497.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3301.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.733333</value>
+          </Data>
+          <Data name="longitude">
+            <value>109</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109,-7.733333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Banyumas</name>
+        <description><![CDATA[nid: 1498<br>parent_nid: 13<br>serial: 3302<br>type: 2<br>latitude: -7.4832133<br>longitude: 109.140438<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1498.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3302.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.4832133</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.140438</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.140438,-7.4832133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Purbalingga</name>
+        <description><![CDATA[nid: 1499<br>parent_nid: 13<br>serial: 3303<br>type: 2<br>latitude: -7.390747<br>longitude: 109.3638<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1499.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3303.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.390747</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.3638</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.3638,-7.390747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Banjarnegara</name>
+        <description><![CDATA[nid: 1500<br>parent_nid: 13<br>serial: 3304<br>type: 2<br>latitude: -7.402706<br>longitude: 109.681396<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1500.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3304.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.402706</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.681396</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.681396,-7.402706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Kebumen</name>
+        <description><![CDATA[nid: 1501<br>parent_nid: 13<br>serial: 3305<br>type: 2<br>latitude: -7.678682<br>longitude: 109.656502<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1501.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3305.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.678682</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.656502</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.656502,-7.678682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Purworejo</name>
+        <description><![CDATA[nid: 1502<br>parent_nid: 13<br>serial: 3306<br>type: 2<br>latitude: -7.709731<br>longitude: 110.008003<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1502.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3306.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.709731</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.008003</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.008003,-7.709731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Wonosobo</name>
+        <description><![CDATA[nid: 1503<br>parent_nid: 13<br>serial: 3307<br>type: 2<br>latitude: -7.362109<br>longitude: 109.899399<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1503.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3307.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.362109</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.899399</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.899399,-7.362109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Magelang</name>
+        <description><![CDATA[nid: 1504<br>parent_nid: 13<br>serial: 3308<br>type: 2<br>latitude: -7.481253<br>longitude: 110.213799<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1504.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3308.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.481253</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.213799</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.213799,-7.481253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Boyolali</name>
+        <description><![CDATA[nid: 1505<br>parent_nid: 13<br>serial: 3309<br>type: 2<br>latitude: -7.523819<br>longitude: 110.595901<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1505.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3309.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.523819</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.595901</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.595901,-7.523819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Klaten</name>
+        <description><![CDATA[nid: 1506<br>parent_nid: 13<br>serial: 3310<br>type: 2<br>latitude: -7.711687<br>longitude: 110.595497<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1506.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3310.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.711687</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.595497</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.595497,-7.711687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Sukoharjo</name>
+        <description><![CDATA[nid: 1507<br>parent_nid: 13<br>serial: 3311<br>type: 2<br>latitude: -7.6808818<br>longitude: 110.8195292<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1507.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3311.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.6808818</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.8195292</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.8195292,-7.6808818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Wonogiri</name>
+        <description><![CDATA[nid: 1508<br>parent_nid: 13<br>serial: 3312<br>type: 2<br>latitude: -7.817782<br>longitude: 110.920601<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1508.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3312.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.817782</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.920601</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.920601,-7.817782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Karanganyar</name>
+        <description><![CDATA[nid: 1509<br>parent_nid: 13<br>serial: 3313<br>type: 2<br>latitude: -7.5961111<br>longitude: 110.9508333<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1509.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3313.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.5961111</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.9508333</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.9508333,-7.5961111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Sragen</name>
+        <description><![CDATA[nid: 1510<br>parent_nid: 13<br>serial: 3314<br>type: 2<br>latitude: -7.430229<br>longitude: 111.021301<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1510.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3314.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.430229</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.021301</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.021301,-7.430229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Grobogan</name>
+        <description><![CDATA[nid: 1511<br>parent_nid: 13<br>serial: 3315<br>type: 2<br>latitude: -7.0217194<br>longitude: 110.9625854<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1511.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3315.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.0217194</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.9625854</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.9625854,-7.0217194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Blora</name>
+        <description><![CDATA[nid: 1512<br>parent_nid: 13<br>serial: 3316<br>type: 2<br>latitude: -6.95<br>longitude: 111.4166667<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1512.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3316.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.95</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.4166667</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.4166667,-6.95,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Rembang</name>
+        <description><![CDATA[nid: 1513<br>parent_nid: 13<br>serial: 3317<br>type: 2<br>latitude: -6.71124<br>longitude: 111.345299<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1513.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3317.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.71124</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.345299</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.345299,-6.71124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Pati</name>
+        <description><![CDATA[nid: 1514<br>parent_nid: 13<br>serial: 3318<br>type: 2<br>latitude: -6.751338<br>longitude: 111.038002<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1514.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3318.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.751338</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.038002</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.038002,-6.751338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Kudus</name>
+        <description><![CDATA[nid: 1515<br>parent_nid: 13<br>serial: 3319<br>type: 2<br>latitude: -6.804087<br>longitude: 110.838203<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1515.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3319.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.804087</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.838203</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.838203,-6.804087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Jepara</name>
+        <description><![CDATA[nid: 1516<br>parent_nid: 13<br>serial: 3320<br>type: 2<br>latitude: -6.5596059<br>longitude: 110.6717<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1516.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3320.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.5596059</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.6717</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.6717,-6.5596059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Demak</name>
+        <description><![CDATA[nid: 1517<br>parent_nid: 13<br>serial: 3321<br>type: 2<br>latitude: -6.888115<br>longitude: 110.639297<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1517.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3321.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.888115</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.639297</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.639297,-6.888115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Semarang</name>
+        <description><![CDATA[nid: 1518<br>parent_nid: 13<br>serial: 3322<br>type: 2<br>latitude: -6.9666667<br>longitude: 110.4166667<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1518.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3322.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.9666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.4166667</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.4166667,-6.9666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Temanggung</name>
+        <description><![CDATA[nid: 1519<br>parent_nid: 13<br>serial: 3323<br>type: 2<br>latitude: -7.316669<br>longitude: 110.174797<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1519.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3323.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.316669</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.174797</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.174797,-7.316669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Kendal</name>
+        <description><![CDATA[nid: 1520<br>parent_nid: 13<br>serial: 3324<br>type: 2<br>latitude: -6.919686<br>longitude: 110.205597<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1520.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3324.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.919686</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.205597</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.205597,-6.919686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Batang</name>
+        <description><![CDATA[nid: 1521<br>parent_nid: 13<br>serial: 3325<br>type: 2<br>latitude: -6.8941111<br>longitude: 109.7234519<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1521.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3325.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8941111</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.7234519</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.7234519,-6.8941111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Pekalongan</name>
+        <description><![CDATA[nid: 1522<br>parent_nid: 13<br>serial: 3326<br>type: 2<br>latitude: -6.882887<br>longitude: 109.669998<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1522.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3326.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.882887</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.669998</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.669998,-6.882887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Pemalang</name>
+        <description><![CDATA[nid: 1523<br>parent_nid: 13<br>serial: 3327<br>type: 2<br>latitude: -6.884234<br>longitude: 109.377998<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1523.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3327.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.884234</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.377998</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.377998,-6.884234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Tegal</name>
+        <description><![CDATA[nid: 1524<br>parent_nid: 13<br>serial: 3328<br>type: 2<br>latitude: -6.8666667<br>longitude: 109.1333333<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1524.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3328.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.1333333</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.1333333,-6.8666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Brebes</name>
+        <description><![CDATA[nid: 1525<br>parent_nid: 13<br>serial: 3329<br>type: 2<br>latitude: -6.8833333<br>longitude: 109.05<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1525.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3329.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8833333</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.05</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.05,-6.8833333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Magelang</name>
+        <description><![CDATA[nid: 1526<br>parent_nid: 13<br>serial: 3371<br>type: 2<br>latitude: -7.481253<br>longitude: 110.213799<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1526.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3371.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.481253</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.213799</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.213799,-7.481253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Surakarta</name>
+        <description><![CDATA[nid: 1527<br>parent_nid: 13<br>serial: 3372<br>type: 2<br>latitude: -7.5666667<br>longitude: 110.8166667<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1527.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3372.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.5666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.8166667</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.8166667,-7.5666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Salatiga</name>
+        <description><![CDATA[nid: 1528<br>parent_nid: 13<br>serial: 3373<br>type: 2<br>latitude: -7.302328<br>longitude: 110.4729<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1528.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3373.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.302328</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.4729</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.4729,-7.302328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Semarang</name>
+        <description><![CDATA[nid: 1529<br>parent_nid: 13<br>serial: 3374<br>type: 2<br>latitude: -6.9666667<br>longitude: 110.4166667<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1529.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3374.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.9666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.4166667</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.4166667,-6.9666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Pekalongan</name>
+        <description><![CDATA[nid: 1530<br>parent_nid: 13<br>serial: 3375<br>type: 2<br>latitude: -6.882887<br>longitude: 109.669998<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1530.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3375.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.882887</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.669998</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.669998,-6.882887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Tegal</name>
+        <description><![CDATA[nid: 1531<br>parent_nid: 13<br>serial: 3376<br>type: 2<br>latitude: -6.8666667<br>longitude: 109.1333333<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1531.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>13.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3376.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.1333333</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.1333333,-6.8666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Jawa Barat.csv</name>
+      <Placemark>
+        <name>Kabupaten Bogor</name>
+        <description><![CDATA[nid: 1471<br>parent_nid: 12<br>serial: 3201<br>type: 2<br>latitude: -6.6<br>longitude: 106.8<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1471.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3201.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.6</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.8</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.8,-6.6,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Sukabumi</name>
+        <description><![CDATA[nid: 1472<br>parent_nid: 12<br>serial: 3202<br>type: 2<br>latitude: -6.92405<br>longitude: 106.922203<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1472.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3202.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.92405</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.922203</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.922203,-6.92405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Cianjur</name>
+        <description><![CDATA[nid: 1473<br>parent_nid: 12<br>serial: 3203<br>type: 2<br>latitude: -6.8172531<br>longitude: 107.1307289<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1473.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3203.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8172531</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.1307289</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.1307289,-6.8172531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Bandung</name>
+        <description><![CDATA[nid: 1474<br>parent_nid: 12<br>serial: 3204<br>type: 2<br>latitude: -6.9147444<br>longitude: 107.6098111<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1474.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3204.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.9147444</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.6098111</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.6098111,-6.9147444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Garut</name>
+        <description><![CDATA[nid: 1475<br>parent_nid: 12<br>serial: 3205<br>type: 2<br>latitude: -7.227906<br>longitude: 107.908699<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1475.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3205.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.227906</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.908699</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.908699,-7.227906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Tasikmalaya</name>
+        <description><![CDATA[nid: 1476<br>parent_nid: 12<br>serial: 3206<br>type: 2<br>latitude: -7.327954<br>longitude: 108.214104<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1476.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3206.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.327954</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.214104</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.214104,-7.327954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Ciamis</name>
+        <description><![CDATA[nid: 1477<br>parent_nid: 12<br>serial: 3207<br>type: 2<br>latitude: -7.3333333<br>longitude: 108.35<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1477.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3207.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.3333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.35</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.35,-7.3333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Kuningan</name>
+        <description><![CDATA[nid: 1478<br>parent_nid: 12<br>serial: 3208<br>type: 2<br>latitude: -6.9833333<br>longitude: 108.4833333<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1478.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3208.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.9833333</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.4833333</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.4833333,-6.9833333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Cirebon</name>
+        <description><![CDATA[nid: 1479<br>parent_nid: 12<br>serial: 3209<br>type: 2<br>latitude: -6.715534<br>longitude: 108.564003<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1479.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3209.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.715534</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.564003</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.564003,-6.715534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Majalengka</name>
+        <description><![CDATA[nid: 1480<br>parent_nid: 12<br>serial: 3210<br>type: 2<br>latitude: -6.8531026<br>longitude: 108.2258897<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1480.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3210.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8531026</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.2258897</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.2258897,-6.8531026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Sumedang</name>
+        <description><![CDATA[nid: 1481<br>parent_nid: 12<br>serial: 3211<br>type: 2<br>latitude: 0.6095949<br>longitude: 110.0330554<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1481.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3211.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.6095949</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.0330554</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.0330554,0.6095949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Indramayu</name>
+        <description><![CDATA[nid: 1482<br>parent_nid: 12<br>serial: 3212<br>type: 2<br>latitude: -6.336315<br>longitude: 108.325104<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1482.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3212.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.336315</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.325104</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.325104,-6.336315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Subang</name>
+        <description><![CDATA[nid: 1483<br>parent_nid: 12<br>serial: 3213<br>type: 2<br>latitude: -6.569361<br>longitude: 107.752403<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1483.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3213.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.569361</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.752403</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.752403,-6.569361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Purwakarta</name>
+        <description><![CDATA[nid: 1484<br>parent_nid: 12<br>serial: 3214<br>type: 2<br>latitude: -6.5386806<br>longitude: 107.4499404<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1484.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3214.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.5386806</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.4499404</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.4499404,-6.5386806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Karawang</name>
+        <description><![CDATA[nid: 1485<br>parent_nid: 12<br>serial: 3215<br>type: 2<br>latitude: -6.3227303<br>longitude: 107.3375791<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1485.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3215.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.3227303</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.3375791</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.3375791,-6.3227303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Bekasi</name>
+        <description><![CDATA[nid: 1486<br>parent_nid: 12<br>serial: 3216<br>type: 2<br>latitude: -6.2333333<br>longitude: 107<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1486.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3216.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.2333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>107</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107,-6.2333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Bandung Barat</name>
+        <description><![CDATA[nid: 1487<br>parent_nid: 12<br>serial: 3217<br>type: 2<br>latitude: -6.8937121<br>longitude: 107.4321959<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1487.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3217.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8937121</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.4321959</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.4321959,-6.8937121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Bogor</name>
+        <description><![CDATA[nid: 1488<br>parent_nid: 12<br>serial: 3271<br>type: 2<br>latitude: -6.6<br>longitude: 106.8<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1488.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3271.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.6</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.8</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.8,-6.6,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Sukabumi</name>
+        <description><![CDATA[nid: 1489<br>parent_nid: 12<br>serial: 3272<br>type: 2<br>latitude: -6.92405<br>longitude: 106.922203<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1489.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3272.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.92405</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.922203</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.922203,-6.92405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Bandung</name>
+        <description><![CDATA[nid: 1490<br>parent_nid: 12<br>serial: 3273<br>type: 2<br>latitude: -6.9147444<br>longitude: 107.6098111<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1490.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3273.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.9147444</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.6098111</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.6098111,-6.9147444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Cirebon</name>
+        <description><![CDATA[nid: 1491<br>parent_nid: 12<br>serial: 3274<br>type: 2<br>latitude: -6.715534<br>longitude: 108.564003<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1491.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3274.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.715534</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.564003</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.564003,-6.715534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Bekasi</name>
+        <description><![CDATA[nid: 1492<br>parent_nid: 12<br>serial: 3275<br>type: 2<br>latitude: -6.2333333<br>longitude: 107<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1492.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3275.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.2333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>107</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107,-6.2333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Depok</name>
+        <description><![CDATA[nid: 1493<br>parent_nid: 12<br>serial: 3276<br>type: 2<br>latitude: -6.39<br>longitude: 106.83<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1493.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3276.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.39</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.83</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.83,-6.39,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Cimahi</name>
+        <description><![CDATA[nid: 1494<br>parent_nid: 12<br>serial: 3277<br>type: 2<br>latitude: -6.880239<br>longitude: 107.5355<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1494.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3277.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.880239</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.5355</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.5355,-6.880239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Tasikmalaya</name>
+        <description><![CDATA[nid: 1495<br>parent_nid: 12<br>serial: 3278<br>type: 2<br>latitude: -7.327954<br>longitude: 108.214104<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1495.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3278.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.327954</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.214104</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.214104,-7.327954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Banjar</name>
+        <description><![CDATA[nid: 1496<br>parent_nid: 12<br>serial: 3279<br>type: 2<br>latitude: -7.3666667<br>longitude: 108.5333333<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1496.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>12.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3279.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.3666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.5333333</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.5333333,-7.3666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[DKI Jakarta & Kepulauan Seribu.csv]]></name>
+      <Placemark>
+        <name>Kabupaten Kepulauan Seribu</name>
+        <description><![CDATA[nid: 1465<br>parent_nid: 11<br>serial: 3101<br>type: 2<br>latitude: -5.7985266<br>longitude: 106.5071982<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1465.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>11.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3101.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-5.7985266</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.5071982</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.5071982,-5.7985266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Jakarta Selatan</name>
+        <description><![CDATA[nid: 1466<br>parent_nid: 11<br>serial: 3174<br>type: 2<br>latitude: -6.332973<br>longitude: 106.807915<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1466.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>11.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3174.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.332973</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.807915</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.807915,-6.332973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Jakarta Timur</name>
+        <description><![CDATA[nid: 1467<br>parent_nid: 11<br>serial: 3175<br>type: 2<br>latitude: -6.211544<br>longitude: 106.845172<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1467.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>11.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3175.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.211544</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.845172</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.845172,-6.211544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Jakarta Pusat</name>
+        <description><![CDATA[nid: 1468<br>parent_nid: 11<br>serial: 3171<br>type: 2<br>latitude: -6.211544<br>longitude: 106.845172<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1468.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>11.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3171.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.211544</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.845172</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.845172,-6.211544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Jakarta Barat</name>
+        <description><![CDATA[nid: 1469<br>parent_nid: 11<br>serial: 3173<br>type: 2<br>latitude: -6.211544<br>longitude: 106.845172<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1469.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>11.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3173.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.211544</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.845172</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.845172,-6.211544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Jakarta Utara</name>
+        <description><![CDATA[nid: 1470<br>parent_nid: 11<br>serial: 3172<br>type: 2<br>latitude: -6.211544<br>longitude: 106.845172<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1470.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>11.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3172.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.211544</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.845172</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.845172,-6.211544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>DI Yogyakarta.csv</name>
+      <Placemark>
+        <name>Kabupaten Kulon Progo</name>
+        <description><![CDATA[nid: 1532<br>parent_nid: 14<br>serial: 3401<br>type: 2<br>latitude: -7.8266798<br>longitude: 110.1640846<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1532.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>14.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3401.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.8266798</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.1640846</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.1640846,-7.8266798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Bantul</name>
+        <description><![CDATA[nid: 1533<br>parent_nid: 14<br>serial: 3402<br>type: 2<br>latitude: -7.8846111<br>longitude: 110.3341111<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1533.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>14.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3402.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.8846111</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.3341111</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.3341111,-7.8846111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Gunung Kidul</name>
+        <description><![CDATA[nid: 1534<br>parent_nid: 14<br>serial: 3403<br>type: 2<br>latitude: -8.0305091<br>longitude: 110.6168921<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1534.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>14.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3403.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.0305091</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.6168921</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.6168921,-8.0305091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Yogyakarta</name>
+        <description><![CDATA[nid: 1536<br>parent_nid: 14<br>serial: 3471<br>type: 2<br>latitude: -7.797224<br>longitude: 110.368797<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1536.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>14.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3471.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.797224</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.368797</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.368797,-7.797224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Banten.csv</name>
+      <Placemark>
+        <name>Kabupaten Pandeglang</name>
+        <description><![CDATA[nid: 1537<br>parent_nid: 16<br>serial: 3601<br>type: 2<br>latitude: -6.314835<br>longitude: 106.103897<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1537.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>16.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3601.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.314835</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.103897</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.103897,-6.314835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Lebak</name>
+        <description><![CDATA[nid: 1538<br>parent_nid: 16<br>serial: 3602<br>type: 2<br>latitude: -6.5643956<br>longitude: 106.2522143<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1538.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>16.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3602.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.5643956</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.2522143</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.2522143,-6.5643956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Tangerang</name>
+        <description><![CDATA[nid: 1539<br>parent_nid: 16<br>serial: 3603<br>type: 2<br>latitude: -6.1783056<br>longitude: 106.6318889<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1539.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>16.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3603.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.1783056</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.6318889</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.6318889,-6.1783056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabupaten Serang</name>
+        <description><![CDATA[nid: 1540<br>parent_nid: 16<br>serial: 3604<br>type: 2<br>latitude: -6.12009<br>longitude: 106.150299<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1540.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>16.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3604.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.12009</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.150299</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.150299,-6.12009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Tangerang</name>
+        <description><![CDATA[nid: 1541<br>parent_nid: 16<br>serial: 3671<br>type: 2<br>latitude: -6.1783056<br>longitude: 106.6318889<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1541.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>16.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3671.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.1783056</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.6318889</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.6318889,-6.1783056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Cilegon</name>
+        <description><![CDATA[nid: 1542<br>parent_nid: 16<br>serial: 3672<br>type: 2<br>latitude: -6.0169825<br>longitude: 106.040506<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1542.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>16.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3672.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.0169825</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.040506</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.040506,-6.0169825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Serang</name>
+        <description><![CDATA[nid: 1543<br>parent_nid: 16<br>serial: 3673<br>type: 2<br>latitude: -6.12009<br>longitude: 106.150299<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>1543.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>16.0</value>
+          </Data>
+          <Data name="serial">
+            <value>3673.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.12009</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.150299</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.150299,-6.12009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kota Tangerang Selatan</name>
+        <description><![CDATA[nid: 562<br>parent_nid: 74<br>serial: 0<br>type: 2<br>latitude: -6.2888889<br>longitude: 106.7180556<br>status: 1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="nid">
+            <value>562.0</value>
+          </Data>
+          <Data name="parent_nid">
+            <value>74.0</value>
+          </Data>
+          <Data name="serial">
+            <value>0.0</value>
+          </Data>
+          <Data name="type">
+            <value>2.0</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.2888889</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.7180556</value>
+          </Data>
+          <Data name="status">
+            <value>1.0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.7180556,-6.2888889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
